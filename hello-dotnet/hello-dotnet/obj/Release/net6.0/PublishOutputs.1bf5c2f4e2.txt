@@ -1,5 +1,0 @@
-E:\prj\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.exe
-E:\prj\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.dll
-E:\prj\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.deps.json
-E:\prj\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.runtimeconfig.json
-E:\prj\hello-dotnet\hello-dotnet\bin\Release\net6.0\publish\hello-dotnet.pdb
